@@ -1,0 +1,157 @@
+[
+  {
+    "sbomId": "3",
+    "version": "12.4+deb12u7",
+    "package": "base-files"
+  },
+  {
+    "sbomId": "3",
+    "version": "(devel)",
+    "package": "charon"
+  },
+  {
+    "sbomId": "3",
+    "version": "(devel)",
+    "package": "command-line-arguments"
+  },
+  {
+    "sbomId": "3",
+    "version": "v2.5.24+incompatible",
+    "package": "git.corp.luntry.com/EDR/src/common.git"
+  },
+  {
+    "sbomId": "3",
+    "version": "v1.0.1",
+    "package": "github.com/beorn7/perks"
+  },
+  {
+    "sbomId": "3",
+    "version": "v0.0.0-20210507211836-431795d63e8d",
+    "package": "github.com/certifi/gocertifi"
+  },
+  {
+    "sbomId": "3",
+    "version": "v2.3.0",
+    "package": "github.com/cespare/xxhash/v2"
+  },
+  {
+    "sbomId": "3",
+    "version": "v0.8.2",
+    "package": "github.com/evalphobia/logrus_sentry"
+  },
+  {
+    "sbomId": "3",
+    "version": "v0.2.0",
+    "package": "github.com/getsentry/raven-go"
+  },
+  {
+    "sbomId": "3",
+    "version": "v0.28.1",
+    "package": "github.com/getsentry/sentry-go"
+  },
+  {
+    "sbomId": "3",
+    "version": "v1.0.0",
+    "package": "github.com/jackc/pgpassfile"
+  },
+  {
+    "sbomId": "3",
+    "version": "v0.0.0-20240606120523-5a60cdf6a761",
+    "package": "github.com/jackc/pgservicefile"
+  },
+  {
+    "sbomId": "3",
+    "version": "v5.6.0",
+    "package": "github.com/jackc/pgx/v5"
+  },
+  {
+    "sbomId": "3",
+    "version": "v2.2.1",
+    "package": "github.com/jackc/puddle/v2"
+  },
+  {
+    "sbomId": "3",
+    "version": "v1.0.0",
+    "package": "github.com/jinzhu/inflection"
+  },
+  {
+    "sbomId": "3",
+    "version": "v1.1.5",
+    "package": "github.com/jinzhu/now"
+  },
+  {
+    "sbomId": "3",
+    "version": "v0.9.1",
+    "package": "github.com/pkg/errors"
+  },
+  {
+    "sbomId": "3",
+    "version": "v1.19.1",
+    "package": "github.com/prometheus/client_golang"
+  },
+  {
+    "sbomId": "3",
+    "version": "v0.6.1",
+    "package": "github.com/prometheus/client_model"
+  },
+  {
+    "sbomId": "3",
+    "version": "v0.54.0",
+    "package": "github.com/prometheus/common"
+  },
+  {
+    "sbomId": "3",
+    "version": "v0.15.1",
+    "package": "github.com/prometheus/procfs"
+  },
+  {
+    "sbomId": "3",
+    "version": "v1.9.3",
+    "package": "github.com/sirupsen/logrus"
+  },
+  {
+    "sbomId": "3",
+    "version": "v0.24.0",
+    "package": "golang.org/x/crypto"
+  },
+  {
+    "sbomId": "3",
+    "version": "v0.7.0",
+    "package": "golang.org/x/sync"
+  },
+  {
+    "sbomId": "3",
+    "version": "v0.21.0",
+    "package": "golang.org/x/sys"
+  },
+  {
+    "sbomId": "3",
+    "version": "v0.16.0",
+    "package": "golang.org/x/text"
+  },
+  {
+    "sbomId": "3",
+    "version": "v1.34.2",
+    "package": "google.golang.org/protobuf"
+  },
+  {
+    "sbomId": "3",
+    "version": "v1.5.9",
+    "package": "gorm.io/driver/postgres"
+  },
+  {
+    "sbomId": "3",
+    "version": "v1.25.10",
+    "package": "gorm.io/gorm"
+  },
+  {
+    "sbomId": "3",
+    "version": "6.4",
+    "package": "netbase"
+  },
+  {
+    "sbomId": "3",
+    "version": "2024a-0+deb12u1",
+    "package": "tzdata"
+  }
+]
