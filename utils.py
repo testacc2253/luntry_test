@@ -1,8 +1,10 @@
 import difflib
 import json
+import logging
 from typing import List, Union, Any
 from config import ABSOLUTE_PATH
 
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def check_lists_similarity(list1: List[dict], list2: List[dict]) -> Union[bool, List[str]]:
     """
@@ -17,6 +19,9 @@ def check_lists_similarity(list1: List[dict], list2: List[dict]) -> Union[bool, 
     if all(line.startswith(' ') for line in difference):
         return True
     else:
+        logging.info("The reports do not match. Differences found:")
+        for line in difference:
+            logging.info(line)
         return difference
 
 

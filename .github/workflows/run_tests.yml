@@ -28,4 +28,4 @@ jobs:
         env:
           API_TOKEN: ${{ secrets.API_TOKEN }}
         run: |
-          pytest
+          pytest -v --tb=long -s -o log_cli_level=INFO
